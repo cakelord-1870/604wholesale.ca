@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://604wholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://604wholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://604wholesale.ca/collections/sofas.atom"/>
+  <title>604wholesale</title>
+  <updated>2014-05-05T16:16:49-07:00</updated>
+  <author>
+    <name>604wholesale</name>
+  </author>
+  <entry>
+    <id>https://604wholesale.ca/products/305347393</id>
+    <published>2014-05-05T16:16:49-07:00</published>
+    <updated>2014-05-05T16:16:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-bentley"/>
+    <title>The BENTLEY</title>
+    <s:type>Sofas</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/1001.jpg?v=1399332050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Sofas<br>
+        <strong>Price: </strong>
+            5299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Why is called the Bentley?  Because this is literally the 'Bentley' of the sofas we carry.  So unique, this sofa set is only available in the highest grade 2.6 mm leather and is completely leather around the whole couch!  Even the sides and back.  Its seats are made with the most supple goose down available on the planet and its frame is made with a dense solid Oak!<br /> <br /> Give your touche a vacation, come to our showroom and try for yourself<br /> <br /> The only problem with this sofa, is that you'll never want to get up!<br /> <br /> <b>Measurements are:</b><br /> Sofa 291 x 104 x 80<br /> Loveseat 211 x 104 x 80<br /> Chaise 236 x 104 x 80<br /> <br /> PRICE of 5299 is JUST for sofa and loveseat<br /> <br /> Chaise is additional 1999</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sofas</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/305347393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/305342881</id>
+    <published>2014-05-05T16:09:40-07:00</published>
+    <updated>2014-05-05T16:09:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-danielle"/>
+    <title>The Danielle</title>
+    <s:type>Sofas</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/0658-1.jpg?v=1399331789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Sofas<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<strong>THE DANIELLE:</strong><br> <br> Both the sofa and loveseat come with 2 matching headrest that can flip up or down. Accented with chrome legs makes the Danielle one of the most attractive sofa loveseat sets we carry.<br> <br> <b>Measurements are:</b><br> Sofa 7 ft 4 x 3 ft<br> Loveseat 5 ft 10 x 3 ft<br> <br> Available in any of the 32 leather colors we carry.<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sofas</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/305342881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku>676</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/305333893</id>
+    <published>2014-05-05T16:05:25-07:00</published>
+    <updated>2014-05-05T16:05:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-moudakis"/>
+    <title>The Moudakis</title>
+    <s:type>Sofas</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/0345-05.jpg?v=1399331236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Sofas<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THE MOUDAKIS:</strong></p>
+<p> </p>
+<p>The gorgeous wide arm rests accented with chrome legs are just some of the highlights of this set. Come into our showroom and have a look for yourself!<br /> <br /> We can sell or order individual pieces as well!<br /> <br /> <b>Measurements are:</b><br /> Sofa 218L x 92W x 81H<br /> Love Seat 180L x 92 x 81 H<br /> Chair 120L x 92W x 81H<br /> <br /> Microfiber Set (all 3!) is $1699<br /> Leather Set (all 3!) is $1999X</p>
+<p><strong>SOFA AND LOVESEAT IN LEATHER $1,699<br /></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sofas</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/305333893</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/305332265</id>
+    <published>2014-05-05T16:04:13-07:00</published>
+    <updated>2014-05-05T16:04:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-aldo"/>
+    <title>The Aldo</title>
+    <s:type>Sofas</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/403.jpg?v=1399331109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Sofas<br>
+        <strong>Price: </strong>
+            2399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PRICE IS FOR SOFA &amp; LOVESEAT<br> <br> <b>Measurements are:</b><br> Sofa 212cm L x 101cm D x 94 cm H<br> Loveseat 171cm L x 101cm D x 94cm H<br> <br> The chair is available at an additional cost of 499</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sofas</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/305332265</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/303805473</id>
+    <published>2014-05-02T16:21:46-07:00</published>
+    <updated>2014-05-02T16:21:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-devo"/>
+    <title>The Devo</title>
+    <s:type>Sofas</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/0443-16-1.jpg?v=1399072952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Sofas<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THE DEVO:</strong></p>
+<p>The Devo is the largest Sofa Love Seat and club chair 604 Wholesale carries! This is a very European style and size and you can see why. With the sofa measuring over 7 ft 6 in length not to mention the club chair which comes in a 4 ft 4 you get as much comfort in this set as you do style.<br /> <br /> The pieces can be broken up and sold individually as well.<br /> <br /> <b>Measurements are:</b><br /> Sofa 7 ft 6 x 3 ft 2 W (24 inches of cushion space)<br /> Love Seat 6 ft L x 3 ft 2 W<br /> Club Chair 4 ft 4 L x 3 ft 2 W<br /> <br /> We can switch the legs at no extra cost (as you can see in the brown picture)<br /> <br /> Available in any color of leather and or microfiber. Please email or call for individual prices.<br /> <br /> 3 piece set in leather is 2099, microfiber 1799<br /> Sofa and loveseat in leather is 1699, 1399 in Microfiber</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sofas</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/303805473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/303804649</id>
+    <published>2014-05-02T16:19:08-07:00</published>
+    <updated>2014-05-02T16:19:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-huber"/>
+    <title>The Huber</title>
+    <s:type>Sofas</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/huber_sofa.jpg?v=1399072873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Sofas<br>
+        <strong>Price: </strong>
+            2199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THE HUBER:</strong></p>
+<p>The Huber Sofa and Love Seat is a perfect blend of a modern design with absolute comfortability. The arm rests are padded with 5 inches of foam while encased with the softest genuine Italian leather available. <br> <br> <b>Measurements are:</b><br> Sofa is 224L x 95W x 85H cm<br> Love Seat is 180L x 95W x 85H<br> <br> Made with an Oak frame and comes with a 2 year warranty. Both Sofa and Love Seat are made with Full Leather front and back! <br> <br> Can be preorder in any color of leather or Microfiber!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sofas</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/303804649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2199.00</s:price>
+      <s:sku>362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/303803541</id>
+    <published>2014-05-02T16:15:44-07:00</published>
+    <updated>2014-05-02T16:15:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-arclight-media-room-recliners"/>
+    <title>The Arclight - Media room Recliners</title>
+    <s:type>Sofas</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/0257.jpg?v=1399072718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Sofas<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">This is THE ONLY reclining set that we at 604Wholesale carry. The Arclight (which we named in honor of the worlds most comfortable theaters) and we feel this reclining set truly exemplifies the same luxury and prestige of it's namesake.<br /> <br /> Accented with 4 cupholders in each armrest and a complete 'layback' selection while reclining makes this home furnishing one of the most dynamic we carry and will highlight any media room.<br /> <br /> <b>CAN BE ORDERED IN ANY COLOR LEATHER WE CARRY</b><br /> <br /> <b>The Measurements are:</b><br /> L 253cm<br /> D 89cm<br /> H 101cm<br /> SH 53cm<br /> <br /> Price quoted in Top Grain leather with PVC backing. <br /> <br /> Full leather would be 2099. <br /> Aniline leather is 2399<br /> <br /> (Single recliner is available...please email for quote)<br /> <br /> </div>
+X</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sofas</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/303803541</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>277</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

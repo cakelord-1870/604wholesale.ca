@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://604wholesale.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://604wholesale.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://604wholesale.ca/collections/other-furniture.atom"/>
+  <title>604wholesale</title>
+  <updated>2020-10-22T13:22:55-07:00</updated>
+  <author>
+    <name>604wholesale</name>
+  </author>
+  <entry>
+    <id>https://604wholesale.ca/products/4604377399361</id>
+    <published>2020-10-22T13:22:55-07:00</published>
+    <updated>2020-10-22T13:22:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-christina-new-2021"/>
+    <title>The Christina - New 2021</title>
+    <s:type>Outdoor Firepits</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/396D848C-B8B9-45D1-AF32-8567A6791B35.jpg?v=1603398175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Outdoor Firepits<br>
+        <strong>Price: </strong>
+            3699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Christina is the brand new for the 2021 season! A 48 inch long linear firepit perfect for those summer evenings. With 68,000 BTU's this firepit can be propane or natural gas and is made with a gorgeous polish concrete.</p>
+<p>It's available in either the dark grey (as shown) or a light grey. It has a Kingsman burner so you know this is built to last.</p>
+<p>It has an adjustable flame and we can order a glass enclosure if needbe.</p>
+<p><strong>Measurements are:</strong></p>
+<p>48 x 30 x 17 H</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>firepit</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/4604377399361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/446519221</id>
+    <published>2015-04-03T10:28:00-07:00</published>
+    <updated>2015-04-03T10:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-ciara-fire-pit"/>
+    <title>The Ciara FIREPIT</title>
+    <s:type>Outdoor Furniture</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/IMG_3507.jpg?v=1603129771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Outdoor Furniture<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #0000ff;"><strong>THE CIARA FIREPIT:</strong></span></p>
+<p>The Ciara Firepit kicks out over 68,000 BTU's (same as the Benson and Alba) and has the same adjustable flame like our other firepits.  It's also made with polished concrete and in terms of quality it has the EXACT SAME WARRANTY and BURNER (made in the USA).  It's also made in 2 pieces so its easy to move!  The only difference is the cement mixture.</p>
+<p>All of our other firepits have a more refined texture (cement) and to achieve that, that mix is very expensive.  The Ciara is merely a less refined mixture of cement (although still smooth to the touch).  It's available with either a propane or natural gas burner.</p>
+<p><span style="text-decoration: underline;"><strong>*note</strong></span> - if you buy any set AND a firepit we will knock <strong>$200 OFF THE FIREPIT!</strong></p>
+<p>It comes with lava rock as the media.  Glass is available for 15$ a pound (this burner holds 10 pounds)</p>
+<p>The one and only possible disadvantage is that its only available in the dark charcoal color as shown.</p>
+<p><br>*river rock is extra<br></p>
+<p><strong>Measurements are:</strong></p>
+<p>36 inches in diameter</p>
+<p>16 inches tall</p>
+<p>A weather cover is available for $129</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>firepit</s:tag>
+    <s:tag>natural gas</s:tag>
+    <s:tag>other</s:tag>
+    <s:tag>outdoor firepits</s:tag>
+    <s:tag>outdoor furniture</s:tag>
+    <s:tag>polished cement</s:tag>
+    <s:tag>propane</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/446519221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>245000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/385653481</id>
+    <published>2014-12-10T10:55:00-08:00</published>
+    <updated>2014-12-10T10:55:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-tenley"/>
+    <title>The BENSON</title>
+    <s:type>Outdoor Firepits</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/IMG_4360.JPG?v=1418237873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Outdoor Firepits<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #0000ff;"><strong>THE BENSON:</strong></span></p>
+<p>The Benson is a 3 ft in Diameter firepit 17 inches high with 68,000 BTU's.  Its made locally in BC and the burner is from the USA.  Its a 2 piece firepit (so its relatively easy to move) and made in a polished concrete.</p>
+<p><span style="text-decoration: underline;"><strong>*note</strong></span> - if you buy any set AND a firepit we will knock <strong>$200 OFF THE FIREPIT!</strong></p>
+<p>Its available in 2 colors, light or dark grey (its pictured in light grey) and can be either propane or natural gas.  It also has an adjustable flame and comes with lava rock for the insert.  Glass is also available for an extra 150$</p>
+<p> </p>
+*Firepit Cover available for $129
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>firepit</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/385653481</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/298282313</id>
+    <published>2014-04-25T15:57:00-07:00</published>
+    <updated>2014-04-25T15:57:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-alba-firepit"/>
+    <title>The Alba Firepit</title>
+    <s:type>Outdoor Firepits</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/IMG_4861_1.JPG?v=1428374232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Outdoor Firepits<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #0000ff;"><strong>THE ALBA FIREPIT:</strong></span></p>
+<p>The ALBA has over 68,000 BTU's with either a natural gas or propane fueling system. The base is available in 2 different colors and the pit decor comes with stunning volcanic rock or glass. Wood logs, stones or jewels are also available for bowl decor but would have an additional cost.<br> <br> The ALBA also has a complete controllable flame! A lot of fire pits do not and this is a must have when entertaining with guests. The flame can range in size from an elegant romantic mood, to an intense party atmosphere<br> <br> The base is made locally in BC and is a polished concrete which comes with a 3 year warranty. The burner is from the USA and has a 1 year warranty.</p>
+<p><span style="text-decoration: underline;"><strong>*note</strong></span> - if you buy any set AND a firepit we will knock <strong>$200 OFF THE FIREPIT!</strong><br> <br> An all season rain cover is also available for 149$.</p>
+<p>It comes with lava rock in the burner for free.  To add glass (like in pictures 1 and 3) it is 15$ a pound.  The burner holds 10 pounds.<br> <br> <b>Measurements are</b><br> 36 in x 36 in x 18in</p>
+<p>The cool thing about the Alba is there is enough room to place your drinks on so it can act as a table!</p>
+<p>Available in 2 colors: Light grey or Slate Grey (thumbnail is in Slate)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>firepit</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/298282313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/297798181</id>
+    <published>2014-04-24T20:20:00-07:00</published>
+    <updated>2014-04-24T20:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-mila-firepit"/>
+    <title>The Mila Firepit</title>
+    <s:type>Outdoor Furniture</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/photo_1.JPG?v=1398396347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Outdoor Furniture<br>
+        <strong>Price: </strong>
+            3299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #0000ff;"><strong>THE MILA FIREPIT:</strong></span></p>
+<br>
+<p>The Mila is available in 2 different colors (light grey, slate) and measures 42x36 and is 18 inches high so it acts like a coffee table!  It has an accenting 8 inch lip which is perfect for using it as a table and resting drinks on.<br> <br> The polished cement is made locally in BC and the 70,000 BTU burner is made in the USA.  Can be used with propane or natural gas.</p>
+<p><span style="text-decoration: underline;"><strong>*note</strong></span> - if you buy any set AND a firepit we will knock <strong>$200 OFF THE FIREPIT!</strong><br> <br> Get your marshmallows ready!<br> <br> <b>Measurements are:</b><br>42 x 36 x 18 H</p>
+<p>Available in 2 colors: Light grey or Slate Grey</p>
+<p>All weather cover is available for $129</p>
+<p>*Stainless steel lid (last pic) avail for $189</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>firepit</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/297798181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3299.00</s:price>
+      <s:sku>edgewater</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://604wholesale.ca/products/297794885</id>
+    <published>2014-04-24T20:14:00-07:00</published>
+    <updated>2014-04-24T20:14:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://604wholesale.ca/products/the-riri-firepit"/>
+    <title>The Riri Firepit</title>
+    <s:type>Outdoor Furniture</s:type>
+    <s:vendor>604wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0437/0309/products/photo_41.JPG?v=1398395932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>604wholesale<br>
+        <strong>Type: </strong>Outdoor Furniture<br>
+        <strong>Price: </strong>
+            2199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #0000ff;"><strong>THE RIRI FIREPIT:</strong></span></p>
+<p>The RiRi is the smallest of the fire pits we carry at 604wholesale but it still packs a punch.</p>
+<p>It has over 70,000 BTU's with either a natural gas or propane fueling system. It's available in 3 different colors and comes with stunning volcanic rock. Wood logs, stones or jewels are also available for bowl decor but would have an additional cost.<br> <br> The RiRi also has a complete controllable flame!  A lot of fire pits do not and this is a must have when entertaining with guests. The flame can range in size from an elegant romantic mood, to an intense party atmosphere<br> <br> The base is made locally in BC and is a polished concrete which comes with a 2 year warranty. The burner is from the USA and has a 1 year warranty.<br> <br> An all season rain cover is also available for 99$.<br> <br> <b>Measurements are</b><br> 36 x 30 x 11 Height</p>
+<p><strong>Available in two colors; Natural or a dark slate</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>firepit</s:tag>
+    <s:variant>
+      <id>https://604wholesale.ca/products/297794885</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
